@@ -1,0 +1,34 @@
+Course Desription 
+----------------
+This is the course content for Deep Learing : Advanced NLP course
+
+Start Date : 03/04/2021
+
+https://cglearning.udemy.com/course/deep-learning-advanced-nlp/learn/lecture/10060902#content
+
+Introduction 
+----------------
+
+Category # 1 
+- Traditional ML - "Bag of Words" - No order
+- Deep Learning - RNNs are for Sequences - maintain order 
+- LSTMs, GRU 
+
+Category # 2 - Embeddings  
+- Word2Vec, Glove
+- Gives words a location 
+- Models relationships between words
+- Word similarity
+- Analogies
+
+Advanced Deep NLP Techniques
+- Bidirectional RNNs
+- Seq2Seq
+- Attention
+- Memory Networks
+
+
+Use cases in the course 
+- Text Classification using CNN, RNNs
+- Neural Machine Translation 
+- Question Answering
